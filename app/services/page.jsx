@@ -17,42 +17,42 @@ const Servicepage = () => {
             name: "Wedding Photography",
             description:
                 "Every emotion, ritual and beautiful moment of your wedding day, captured to last a lifetime.",
-            image: "/projects/rc1.jpg",
+            image: "/Projects/rc1.jpg",
             category: "Wedding",
         },
         {
             name: "Destination Photography",
             description:
                 "Natural smiles, genuine emotions and those unexpected moments that make your story unique.",
-            image: "/projects/rc4.jpg",
+            image: "/Projects/rc4.jpg",
             category: "Destination",
         },
         {
             name: "Pre-Wedding Photography",
             description:
                 "Celebrate your love story with beautiful portraits and creative pre-wedding memories.",
-            image: "/projects/rc5.jpg",
+            image: "/Projects/rc5.jpg",
             category: "Pre-Wedding",
         },
         {
             name: "Birthday Photography",
             description:
                 "Capture the smiles, celebrations, decorations and little details of your special day.",
-            image: "/projects/rc22.jpg",
+            image: "/Projects/rc22.jpg",
             category: "Birthday",
         },
         {
             name: "Coming-of-Age Photography",
             description:
                 "Beautifully document an important milestone with portraits and memorable family moments.",
-            image: "/projects/rc8.jpg",
+            image: "/Projects/rc8.jpg",
             category: "Coming-of-Age",
         },
         {
             name: "Baby Photography",
             description:
                 "Keep the sweetest expressions, tiny details and precious early memories close forever.",
-            image: "/projects/rc2.jpg",
+            image: "/Projects/rc2.jpg",
             category: "Baby",
         },
         {
