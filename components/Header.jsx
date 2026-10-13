@@ -23,7 +23,7 @@ const Header = () => {
 
                 {/* BUTTON */}
                 <div className="hidden md:flex">
-                    <Link href="tel:+918438866374">
+                    <Link href="tel:+916374303448">
                         <Button className="h-10 w-36 bg-primary text-white hover:bg-black">
                             <RiPhoneFill className=" hover:bg-black hover:text-white" />
                             Call Now

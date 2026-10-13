@@ -28,7 +28,7 @@ const usps = [
   },
   {
     icon: BadgeIndianRupee,
-    title: "Reasonable Price, Best Quality Memories",
+    title: "Reasonable Price, Best Quality",
     description:
       "Enjoy quality photography at a reasonable price, with memories you can cherish forever.",
   },

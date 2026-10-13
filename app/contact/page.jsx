@@ -72,7 +72,7 @@ const ContactPage = () => {
 
             {/* Phone */}
             <a
-              href="tel:+917619178700"
+              href="tel:+916374303448"
               className="group flex gap-4 border-b border-black/10 py-5 transition-colors sm:py-6"
             >
               <span className="flex size-12 shrink-0 items-center justify-center rounded-xl border border-[#C60036]/10 bg-[#C60036]/[0.06] text-[#C60036] transition-colors group-hover:bg-[#C60036] group-hover:text-white">
@@ -85,7 +85,7 @@ const ContactPage = () => {
                 </p>
 
                 <p className="mt-1 text-base font-semibold text-[#222222] transition-colors group-hover:text-[#C60036] sm:text-lg">
-                  +91 76191 78700
+                  +91 63743 03448
                 </p>
 
                 <p className="mt-1 text-xs leading-5 text-[#777777]">

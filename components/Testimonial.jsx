@@ -16,7 +16,7 @@ const testimonials = [
   {
     quote:
       "The photographs beautifully captured the colours, traditions, and atmosphere of the celebration. We especially loved the candid pictures because they felt natural and showed the real moments as they happened.",
-    name: "Bathma",
+    name: "Bathmarubini",
     designation: "Coming-of-Age Photography",
     src: "/Testimonials/rc3.jpg",
   },
@@ -37,7 +37,7 @@ const testimonials = [
   {
     quote:
       "Every picture captured something special about our wedding, from the ceremony to the happy moments with family. We loved having these memories to look back on, especially the candid photos we didn't even realise were being taken.",
-    name: "Nandhu & Selva",
+    name: "Nandhu & JeyaSri",
     designation: "Wedding Photography",
     src: "/Testimonials/rc6.jpg",
   },

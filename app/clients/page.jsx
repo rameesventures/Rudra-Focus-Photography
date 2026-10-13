@@ -32,7 +32,7 @@ const stories = [
     image: "/Projects/rc5.jpg",
   },
   {
-    name: "Nandhu & Selva",
+    name: "Nandhu & JeyaSri",
     category: "Wedding Photography",
     location: "Vilathikulam, Thoothukudi",
     date: "Wedding Story",
